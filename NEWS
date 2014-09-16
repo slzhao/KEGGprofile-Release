@@ -1,0 +1,59 @@
+CHANGES IN VERSION 0.99.2
+-------------------------
+
+    o Improvement in processing expression matrix with only one time point
+
+CHANGES IN VERSION 0.99.1
+--------------------------
+
+    o Add the param lwd when type='lines' 
+
+CHANGES IN VERSION 0.99.0
+--------------------------
+
+    o Improvement in the description of this package. Add notes for users in plot_profile function
+
+CHANGES IN VERSION 0.1.2
+------------------------
+
+    o Improvement in the codes of vignette file and re-submit to bioconductor as the final version
+
+CHANGES IN VERSION 0.1.0
+------------------------
+
+    o Submit to bioconductor
+
+CHANGES IN VERSION 0.0.7
+------------------------
+
+    o Finish the vignette file
+
+CHANGES IN VERSION 0.0.6
+------------------------
+
+    o Improvement in help file and example source
+
+CHANGES IN VERSION 0.0.5
+------------------------
+
+    o Add return value for plot_pathway function; Release to my colleague
+
+
+CHANGES IN VERSION 0.0.4
+------------------------
+
+    o Finish help files and example source
+
+CHANGES IN VERSION 0.0.3
+------------------------
+
+    o Add example data files
+
+CHANGES IN VERSION 0.0.2
+------------------------
+    o Improvement in figure details
+
+CHANGES IN VERSION 0.0.1
+------------------------
+
+    o Build 'KEGGprofile' package by CMD Install and CMD check
